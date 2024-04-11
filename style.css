@@ -56,4 +56,8 @@ form {
 .btn:active {
   box-shadow: none;
   top: 6px; 
-} 
+}
+
+.bg-black {
+  background: #000;
+}
